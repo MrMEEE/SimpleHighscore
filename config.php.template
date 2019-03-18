@@ -1,0 +1,9 @@
+<?php
+
+$bannerfile = ""; //Page banner
+
+$eulatext1 = ""; // Required terms and conditions
+
+$eulatext2 = ""; // Optional terms and conditions
+
+?>
